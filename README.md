@@ -25,4 +25,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Venki1402&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<a href="https://open.spotify.com/user/vennet148?si=be24a33e81b54f62" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" 
+         alt="Spotify Logo" 
+         style="width: 50px; height: 50;">
+</a>
