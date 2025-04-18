@@ -1,6 +1,9 @@
 # 💫 About Me
 
-👋 Hello! I'm Sai Venkatesh Alampally<br>🌱 I’m currently learning **FullStack** **Development**<br>🔭 I love to explore new technologies and build projects on them<br>👯 I’m looking to collaborate on Innovative and Exciting Projects<br>👀 I’m actively seeking internships to further enhance my skills<br>  
+🚀 FullStack Developer building dynamic, user-focused web apps<br>
+🔭 Currently Exploring the frontiers of Web3, AI and ML<br>
+💡 Have a game-changing idea? Let’s connect and bring it to life<br>
+🔬 Passionate about the latest breakthroughs in science and tech<br>
 
 ## 🌐 Socials
 
