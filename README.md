@@ -10,8 +10,7 @@
 [![X](/icons/twitter-x.svg)](https://x.com/@ASaiVenkatesh1)
 [![X](/icons/discord.svg)](https://discordapp.com/users/851431126081601557)
 [![LinkedIn](/icons/linkedin.svg)](https://www.linkedin.com/in/venkateshalampally)
-
-[//]:[![Instagram](/icons/instagram.svg)](https://instagram.com/8055.venkatesh)
+[![Instagram](/icons/instagram.svg)](https://instagram.com/8055.venkatesh)
 
 [//]:[![YouTube](/icons/youtube.svg)](https://youtube.com/@VennetDragneel)
 
