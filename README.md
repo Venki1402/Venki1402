@@ -36,4 +36,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=venki1402)
+![](https://komarev.com/ghpvc/?username=venki1402&abbreviated=true)
