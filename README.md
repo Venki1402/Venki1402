@@ -2,9 +2,9 @@
 
 - cs @bitspilani
 - ex swe intern @allen and dukaan
-- fullstack developer, I build products that are practical, scalable, and shipped with intent.
+- fullstack ai engineer, I build products that are practical, scalable, and shipped with intent.
 - currently expanding my skill set into ml & dl by building applied AI systems.
-- I'm open to freelancing and interesting engineering roles.
+- I'm open to interesting engineering roles.
 
 #### Contact Information:
 - email : saivenkatesh.alampally@gmail.com
